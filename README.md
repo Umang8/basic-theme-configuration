@@ -65,7 +65,7 @@ You will have the option to crop your image, for this exercise, we will "Skip Cr
 [![](https://make.wordpress.org/training/files/2017/01/eight-1024x411.png)](https://make.wordpress.org/training/files/2017/01/eight.png)
 Next, you can upload a favicon and site icon, making sure your image is 512px square. Click "Select Image" and follow the add media dialog sequence, like you did for the logo above.
 [![](https://make.wordpress.org/training/files/2017/01/nine-1024x411.png)](https://make.wordpress.org/training/files/2017/01/nine.png)
-Once it is uploaded, you can save the Site Identity section of the customizations
+Once it is uploaded, you can save the Site Identity section of the customizations.
 [![](https://make.wordpress.org/training/files/2017/01/ten.png)](https://make.wordpress.org/training/files/2017/01/ten.png)
 Then click back to the main customization navigation [![](https://make.wordpress.org/training/files/2017/01/eleven.png)](https://make.wordpress.org/training/files/2017/01/eleven.png)  
 
@@ -80,7 +80,7 @@ Change Basic Color Scheme or any of the individual colors, then Save & Publish. 
 
 Choose the Background Image Menu item, when the dialog opens, the only option is to Select the background image... Do so! 
 [![](https://make.wordpress.org/training/files/2017/01/15-1024x507.png)](https://make.wordpress.org/training/files/2017/01/15.png)
-Follow the Select Image dialog and upload an image
+Follow the Select Image dialog and upload an image.
 [![](https://make.wordpress.org/training/files/2017/01/16-1024x717.png)](https://make.wordpress.org/training/files/2017/01/16.png)
 [![](https://make.wordpress.org/training/files/2017/01/19-1024x724.png)](https://make.wordpress.org/training/files/2017/01/19.png)
 Once the image is uploaded, there are lots of options.
